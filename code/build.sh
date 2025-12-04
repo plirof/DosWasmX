@@ -1,2 +1,0 @@
-touch myinput.cpp
-make
